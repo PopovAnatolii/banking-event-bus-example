@@ -1,5 +1,5 @@
 # Пример построения event bus для рапспределенной системы средствами rabbitMQ
-
+[презентация](https://slides.com/anatoliipopov/event-bus-event-example)
 ## Requirements
 
 ### PHP 5.3+
